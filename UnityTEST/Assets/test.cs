@@ -6,7 +6,6 @@ public class test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-<<<<<<< HEAD
         Debug.log("ふさふさ！");
 	}
 	
