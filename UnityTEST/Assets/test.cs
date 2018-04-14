@@ -6,7 +6,7 @@ public class test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.log("竜太！");
+        Debug.log("ふさふさ！");
 	}
 	
 	// Update is called once per frame
